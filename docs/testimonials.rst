@@ -33,6 +33,7 @@ scientific studies. Here is a (hopefully complete) list:
 * `Reis, Miller, Reynolds, et al. (2013) <http://arxiv.org/abs/1208.3277>`_
 * `Sanders, & Fabian (2013) <http://arxiv.org/abs/1212.1259>`_
 * `Akeret, Seehars, Amara, et al. (2012) <http://arxiv.org/abs/1212.1721>`_
+* `Gratier, Pety, Guzmán et al. 2013 <http://arxiv.org/abs/1305.2371>`_
 
 Please `let us know <mailto:danfm@nyu.edu>`_ if your work should be included
 in this list or `fork the repository <https://github.com/dfm/emcee>`_ and add
